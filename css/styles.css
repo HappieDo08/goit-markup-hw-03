@@ -135,8 +135,8 @@ h1, h2, h3, h4, h5, h6, p, ul {
 
 .hero-button {
     cursor: pointer;
-    color: var(--white, #fff);
-    background: var(--iris, #4d5ae5);
+    color: var(--whitecolor);
+    background: var(--iriscolor);
     font-family: inherit;
     font-size: 16px;
     font-weight: 500;
@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
 
 .team-item {
     border-radius: 0px 0px 4px 4px;
-    background: var(--white, #fff);
+    background: var(--whitecolor);
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
         0px 1px 1px 0px rgba(46, 47, 66, 0.16),
         0px 1px 6px 0px rgba(46, 47, 66, 0.08);
